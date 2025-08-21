@@ -1,2 +1,2 @@
 # practice-user
-capsulation
+user capsulation
